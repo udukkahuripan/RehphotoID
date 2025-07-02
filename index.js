@@ -1,0 +1,1 @@
+// Dummy content for pages/index.js
